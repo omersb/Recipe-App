@@ -1,6 +1,6 @@
-import AppRouter from './router/AppRouter';
-import theme from './components/globalStyles/theme';
-import { ThemeProvider } from 'styled-components';
+import AppRouter from "./router/AppRouter";
+import theme from "./components/globalStyles/theme";
+import { ThemeProvider } from "styled-components";
 
 function App() {
   return (
@@ -9,4 +9,5 @@ function App() {
     </ThemeProvider>
   );
 }
+
 export default App;
