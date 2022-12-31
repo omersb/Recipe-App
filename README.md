@@ -23,4 +23,4 @@
 * Firebase,
 * Toastify,
 
-![MovieApp](https://github.com/omersb/Movie_App/blob/master/movie-app.gif?raw=true)
+![MovieApp](https://github.com/omersb/Recipe-App/blob/master/recipe-app.png?raw=true)
