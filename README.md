@@ -19,8 +19,7 @@
 
 * ReactJS,
 * Router,
-* Bootstrap,
-* Firebase,
-* Toastify,
+* Styled-components,
+
 
 ![MovieApp](https://github.com/omersb/Recipe-App/blob/master/recipe-app.png?raw=true)
