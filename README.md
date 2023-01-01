@@ -22,4 +22,4 @@
 * Styled-components,
 
 
-![MovieApp](https://github.com/omersb/Recipe-App/blob/master/recipee-app.png?raw=true)
+![MovieApp](https://github.com/omersb/Recipe-App/blob/master/recipe-app.gif?raw=true)
